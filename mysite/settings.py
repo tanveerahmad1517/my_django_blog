@@ -95,7 +95,7 @@ DATABASES = {
         'NAME': 'railway',
         'USER': 'postgres',
         'PASSWORD': 'uChVQyiBOeZOTSlLql1f',
-        'HOST': 'containers-us-west-196.railway.app',
+        'HOST': 'my-django-blog-phi.vercel.app',
         'PORT': '6625',
 
     }
